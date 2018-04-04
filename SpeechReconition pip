@@ -1,0 +1,10 @@
+ 
+Python2 :
+
+
+sudo pip install SpeechRecognition
+
+
+Python 3:
+
+sudo pip3 install SpeechRecognition

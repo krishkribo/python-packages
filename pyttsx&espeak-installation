@@ -1,0 +1,18 @@
+
+python2:
+sudo pip install pyttsx
+
+pythpn:
+sudo pip3 install pyttsx3
+
+
+Espeak:
+
+sudo apt-get update
+sudo apt-get install espeak
+
+
+sudo apt-get install pythonX-espeak
+
+
+replace X by your python versions
